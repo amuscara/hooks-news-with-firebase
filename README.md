@@ -1,68 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Udemy Code Course by Reed Barger @ https://www.udemy.com/awesome-apps-with-react-hooks-and-firebase/
 
-## Available Scripts
+### Concepts Covered
 
-In the project directory, you can run:
+- Rock solid patterns for using / integrating Firebase with React
+- Full CRUD Functionality with the Firestore Realtime Database
+- Building and Using your Own Custom React Hooks with Firebase
+- Managing Global App State with React Context and the useContext Hook
+- Firebase Authentication with Login / Register
+- Reset Password Functionality for Returning Users
+- User Authorization and Handling Unauthorized Actions
+- In-Depth Routing Concepts with React Router 5
+- How to Implement Cursor-based Pagination
+- Sorting, Ordering and Limiting Documents with Firestore Queries
+- Full-Text Search Functionality
+- Realtime Subscriptions upon Data Changes with Firestore
+- Building and Deploying Serverless Firebase Functions
+- Working with the Firebase Tools CLI
+- Seamless App Deployment with Firebase Hosting
+- Using Date Fns to Format Time
 
-### `npm start`
+#### Why I chose this course?
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+To deepen my understanding of React and get more practice working with React hooks. I also wanted to dive deeper in my knowledge of firebase and see what kind of potential it had when it came to Authorization and Hosting.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+App hosted at : https://hooks-news-30a61.firebaseapp.com
